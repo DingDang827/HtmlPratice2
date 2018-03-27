@@ -9,7 +9,7 @@ body{
     float: right;
 }
 
-a{
+.con{
     color: turquoise;
     font-weight: bold;
     font-size: 130%;
@@ -22,7 +22,7 @@ a{
     padding: 8px;
 }
 
-a:hover{
+.con:hover{
     border-bottom: 4px solid turquoise;
 }
 
@@ -111,4 +111,23 @@ td{
 }
 .input{
     padding-top: 0.5%;
+}
+
+.logo{
+    width: 10%;
+    height: 10%;
+}
+
+.c{
+    float: right;
+    vertical-align: auto;
+}
+
+.ep{
+    color: purple;
+    text-decoration: unset;
+}
+
+footer{
+    font-size: 100%;
 }
