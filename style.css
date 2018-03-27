@@ -104,6 +104,7 @@ td{
 
 .areaa{
     width:100%;
+    height: 15em;
 }
 
 .input{
@@ -126,6 +127,11 @@ td{
 .ep{
     color: purple;
     text-decoration: unset;
+}
+
+.right>p{
+    margin-bottom: 0.2em;
+    margin-top: 0.2em;
 }
 
 footer{
